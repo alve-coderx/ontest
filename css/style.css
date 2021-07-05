@@ -1,0 +1,136 @@
+body{
+    height: 1000vh;
+}
+.navA{
+  margin-right: -63rem;  
+  color: black;
+  text-decoration: none;
+}
+
+.btn-secondary{
+    background-color: white;
+    color: #7510F7;
+    border: 2px solid#7510F7;
+    font-weight:700;
+    border-radius: 55px;
+}
+
+.btn-secondary:hover{
+  background-color: #7510F7;
+}
+
+.container{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.cont-img{
+    width: 200px;
+    position: absolute;
+    top: 306px;
+    left: 630px;
+}
+
+
+.cont-main{
+    margin-top: 50px;
+    background-image: url('/css/contbg.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 100vh;
+}
+
+.cont-scndry{
+    background-color: #7510F7;
+    max-width: 1518px;
+    height: 500px;
+    margin-top: -32px;
+
+}
+.colmd{
+    max-width: 50%;
+    margin: 180px 374px;
+    color: white;
+}
+
+.cont-third{
+    width: 1200px;
+    background-color: white;
+    padding: 41px;
+    text-align: center;
+    height: 728px;
+    box-shadow: 6px 6px 12px black;
+    border-radius: 5px;
+    position: relative;
+    margin-top: -92px;
+    margin-left: 192px;
+
+}
+
+
+.cont-third li{
+    padding-top: 20px;
+    list-style-type: none;
+    padding-bottom: 10px;
+}
+
+.cont-third p{
+    margin-top: -10px;
+}
+
+.col-border{
+border-left: 2px solid gainsboro;
+border-right: 2px solid gainsboro;
+}
+
+.col-sm-4 h2 + li{
+    color: #7510F7;
+}
+
+.material-icons{
+    color: #7510F7;
+    font-size: 86px;
+}
+
+.logo{
+    font-size: 50px;
+    box-shadow: 2px 2px 2px;
+}
+
+.cont-four{
+    margin-top: 100px;
+}
+
+
+
+.col-sm-4 img{
+    margin-top: 50px;
+    border-radius: 100px;
+    width: 100%;
+}
+
+.li{
+    list-style: none;
+    font-size: 20px;
+}
+
+
+.rowJam div{
+    box-shadow: 6px 6px 12px black;
+    margin-top: 50px;
+    height: 200px;
+}
+
+
+.publish{
+    margin-top: -150px;
+    margin-left: 82px;
+}
+
+.publish .col-sm-4{
+    width: 384px;
+    margin-left: 51px;
+    background: white;
+    text-align: center;
+    border-radius: 12px;
+}
